@@ -1,5 +1,5 @@
 document.addEventListener('DOMContentLoaded', () => {
-    fetch('productos.json')
+    fetch('data/productos.json')
         .then(response => response.json())
         .then(data => loadProducts(data));
 });

@@ -1,0 +1,38 @@
+[
+    {
+        "id": "product1",
+        "title": "Nba2K24",
+        "price": "$5000",
+        "image": "https://resources.claroshop.com/medios-plazavip/s2/33452/5160269/65612832bdd0e-nba-2k24-ps5-kobe-bryant-edition-1600x1600.jpg?scale=700&qlty=80"
+    },
+    {
+        "id": "product2",
+        "title": "FC 24",
+        "price": "$20000",
+        "image": "https://resources.claroshop.com/medios-plazavip/mkt/64de3e47a7648_14633748697_ps5_ea-sports-fc-24_fjpg.jpg?scale=700&qlty=80"
+    },
+    {
+        "id": "product3",
+        "title": "Xbox Series S",
+        "price": "$50000",
+        "image": "https://wallpapercave.com/wp/wp7577838.jpg"
+    },
+    {
+        "id": "product4",
+        "title": "Xbox Series X",
+        "price": "$900000",
+        "image": "https://cdn.wccftech.com/wp-content/uploads/2020/04/Xbox-Series-X-wallpaper.jpeg"
+    },
+    {
+        "id": "product5",
+        "title": "Playstation 5",
+        "price": "$1000000",
+        "image": "https://dcdn.mitiendanube.com/stores/004/504/349/products/ps5-fisica-3-74536e8e0c22c243df17170276275489-1024-1024.jpg"
+    },
+    {
+        "id": "product6",
+        "title": "DualSense 5",
+        "price": "$50000",
+        "image": "https://wallpapercave.com/wp/wp6623923.jpg"
+    }
+]
